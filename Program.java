@@ -1,4 +1,5 @@
-package Fatec.aulas.Grace.Atividades.cinco05;
+package Fatec.aulas.Grace.Atividades;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -20,7 +21,6 @@ public class Program{
                 "Área: %.2f %n" +
                 "Circunferência: %.2f %n",
                 c1.diametro(), c1.area(), c1.circunferencia());
-
 
     }
 }
