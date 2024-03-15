@@ -1,8 +1,10 @@
-package Fatec.aulas.Grace.Atividades.cinco05;
+package Fatec.aulas.Grace.Atividades;
 
 public class Circulo {
     private double raio;
     private final double PI = 3.14159;
+  
+    
     public void setRaio(double raio) {
         this.raio = raio;
     }
